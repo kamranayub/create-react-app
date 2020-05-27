@@ -8,7 +8,10 @@
       "@types/react": "^16.9.0",
       "@types/react-dom": "^16.9.0",
       "@types/jest": "^25.0.0",
-      "typescript": "^3.8.0"
+      "typescript": "^3.8.0",
+      "workbox-core": "5.0.0",
+      "workbox-precaching": "5.0.0",
+      "workbox-routing": "5.0.0"
     }
   }
 }
